@@ -8,6 +8,7 @@ List of changes:
 - new packages.config with correct (at this moment) referenses instead of referensing dlls. 
 - to build this sources you have to install corresponding VS feature. 
 - I left only VS2017+ as the target.
+- .net 4.6 as target
 
 You could download the package from the "releases" section or build from the sources.
 
