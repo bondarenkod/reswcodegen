@@ -1,3 +1,4 @@
+
 # reswcodegen
 A Visual Studio Custom Tool for generating a strongly typed helper class for accessing localized resources from a .ResW file.
 
@@ -16,5 +17,6 @@ You could download the package from the "releases" section or build from the sou
 **Plans:**
 - rename & publish to the store (I'll remove that package if author will fix her project)
 - review and clean the code. I want to remove the old stuff (<=2015) and learn how to write such as this extensions.
+- add tests
 
 
