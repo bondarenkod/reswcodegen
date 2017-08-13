@@ -11,6 +11,7 @@ This is custom build of the https://github.com/christianhelle/reswcodegen becaus
 - .net 4.6 as target
 
 You could download the package from the "releases" section or build from the source - https://github.com/bondarenkod/reswcodegen/releases
+I left all guid's and almost everithing else as it were before, so, you probable can get a conflict with an old vsix if you have <=vs2015 on the same machine with installed package. 
 
 **Plans:**
 - rename & publish to the store (I'll remove that package if author will fix her project)
